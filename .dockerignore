@@ -1,0 +1,12 @@
+# Minecraft files
+libraries/
+logs/
+versions/
+
+# Other
+*.pem
+.DS_Store
+
+# Git
+.git 
+.gitignore
