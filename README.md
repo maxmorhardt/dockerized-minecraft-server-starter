@@ -19,7 +19,7 @@ docker tag minecraft <DOCKER_HUB_USERNAME>/<IMAGE_NAME>
 docker push <DOCKER_HUB_USERNAME>/<IMAGE_NAME>
 ```
 
-EC2 Build (Use t2.medium)
+EC2 (Use t2.medium)
 ```
 sudo yum install docker -y
 sudo service docker start 
